@@ -124,7 +124,6 @@ const ResetPage = (props) => {
           <div className="card w-full max-w-[500px] px-3 md:px-7 mx-3">
             <div className="my-4 text-4xl font-semibold text-center text-primary">
               {/* CodeBridge Image */}
-              
             </div>
             <div className="mt-6 text-center">
               <h2 className="mb-4 text-2xl font-semibold">
